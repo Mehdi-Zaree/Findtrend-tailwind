@@ -1,12 +1,20 @@
 # Findtrend.com
-![findtrend (2)](https://github.com/Mehdi-Zaree/Findtrend-tailwind/assets/155577064/95a5d6c3-0c4b-470f-a35b-d07026e5e5da)
+
 <p align="center">
 <a href="https://mehdi-zaree.github.io/ubisoft/"target="_blank"> view demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
-
-
 </p>
+
+![findtrend (2)](https://github.com/Mehdi-Zaree/Findtrend-tailwind/assets/155577064/95a5d6c3-0c4b-470f-a35b-d07026e5e5da)
+
+## :art:color template
+
+| color     | hex |
+| ----------- | ----------- |
+| primary    | #A8FF35|
+|btn hover | #87D322 |
+
 
 ## :computer: Technologies 
 - HTML5
