@@ -1,6 +1,5 @@
 # Findtrend.com
-![view](![screencapture-file-C-Users-Mehdi-Desktop-Exercise-Project-ubistoft-index-html-2024-02-03-02_49_23](https://github.com/Mehdi-Zaree/ubisoft/assets/155577064/3556d3cc-13cc-4638-9aa2-648460ededae)
-)
+![findtrend (2)](https://github.com/Mehdi-Zaree/Findtrend-tailwind/assets/155577064/95a5d6c3-0c4b-470f-a35b-d07026e5e5da)
 <p align="center">
 <a href="https://mehdi-zaree.github.io/ubisoft/"target="_blank"> view demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
