@@ -18,8 +18,8 @@
 
 ## :computer: Technologies 
 - HTML5
-- CSS
-- SCSS
+- tailwindcss
+  
 ## :page_facing_up: Description
 Hi there, I'm here again with a new project that I've developed with my angle tailwind, It's fully  responsive though  </br>
 developed by: Mehdi Zarei</br>
